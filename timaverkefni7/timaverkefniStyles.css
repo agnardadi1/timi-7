@@ -29,7 +29,7 @@ body {
   /* Bæta hér inni grid-template-areas */
   grid-template-areas:
     "a a a"
-    "b c c"
+    "b b c"
     "d d d";
 }
 
