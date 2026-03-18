@@ -121,26 +121,22 @@ body {
 
 .wrapper4 .a {
   /* Bæta hér inni - nota grid-area */
-  grid-column: 2 / 4;
-  grid-row: 2 / 4;
+  grid-area: 2 / 2 / 4 / 4;
   background-color: #27ae60;
 }
 .wrapper4 .b {
   /* Bæta hér inni - nota grid-area */
-  grid-column: 1 / 2;
-  grid-row: 1 / 2;
+  grid-area: 1 / 1 / 1 / 1;
   background-color: #2980b9;
 }
 .wrapper4 .c {
   /* Bæta hér inni - nota grid-area */
-  grid-column: 3 / 4;
-  grid-row: 1 / 1;
+  grid-area: 2 / 3 / 1 / 4;
   background-color: #e74c3c;
 }
 .wrapper4 .d {
   /* Bæta hér inni - nota grid-area */
-  grid-column: 1 / 2;
-  grid-row: 3 / 4;
+  grid-area: 3 / 1 / 4 / 2;
   background-color: #f1c40f;
   color: #333;
 }
